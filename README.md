@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0152-maximum-product-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
