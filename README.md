@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0219-contains-duplicate-ii) |
 ## Stack
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0954-maximum-sum-circular-subarray) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
