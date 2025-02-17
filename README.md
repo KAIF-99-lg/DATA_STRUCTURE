@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0014-longest-common-prefix) |
 ## Tree
 |  |
 | ------- |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
