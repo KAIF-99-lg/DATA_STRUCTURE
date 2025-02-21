@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0155-min-stack) |
 ## Queue
 |  |
 | ------- |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
