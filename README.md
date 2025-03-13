@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
