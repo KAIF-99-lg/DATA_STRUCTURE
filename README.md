@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0954-maximum-sum-circular-subarray) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
