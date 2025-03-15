@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0152-maximum-product-subarray) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/2210-find-target-indices-after-sorting-array) |
