@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0507-perfect-number) |
 ## Array
 |  |
 | ------- |
