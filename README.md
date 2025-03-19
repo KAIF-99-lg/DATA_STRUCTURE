@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0954-maximum-sum-circular-subarray) |
+| [1013-fibonacci-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0136-single-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
