@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0954-maximum-sum-circular-subarray) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
