@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0412-fizz-buzz) |
 ## Tree
 |  |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
