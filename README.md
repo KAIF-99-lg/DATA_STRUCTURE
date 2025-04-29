@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0412-fizz-buzz) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -272,11 +274,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0225-implement-stack-using-queues) |
 ## Backtracking
 |  |
