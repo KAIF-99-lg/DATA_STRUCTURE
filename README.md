@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0322-coin-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/1013-fibonacci-number) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/2210-find-target-indices-after-sorting-array) |
