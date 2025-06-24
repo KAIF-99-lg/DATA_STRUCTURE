@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0322-coin-change) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0217-contains-duplicate) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Design
@@ -330,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
