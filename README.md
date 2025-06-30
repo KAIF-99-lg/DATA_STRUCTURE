@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0139-word-break) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0020-valid-parentheses) |
+| [0091-decode-ways](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0179-largest-number) |
