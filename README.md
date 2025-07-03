@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0179-largest-number) |
