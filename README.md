@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/KAIF-99-lg/DATA_STRUCTURE/tree/master/0567-permutation-in-string) |
 ## Tree
 |  |
 | ------- |
